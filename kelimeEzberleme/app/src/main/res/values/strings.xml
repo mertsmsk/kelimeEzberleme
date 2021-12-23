@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">kelimeEzberleme</string>
+    <string name="enkelime">EN</string>
+    <string name="trkelime">TR</string>
+    <string name="ceviributon">ÇEVİRİ</string>
+</resources>
